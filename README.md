@@ -6,6 +6,6 @@ class Kyvrixon extends Developer {
   pronouns   = "Any";
   portfolio  = "https://kyvrixon.dev/";
   experience = "7 years";
-  discordInv = "https://discord.gg/tsukiyo";
+  discordUrl = "https://discord.gg/tsukiyo";
 };
 ```

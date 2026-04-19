@@ -1,11 +1,10 @@
-```typescript
+```ts
 class Kyvrixon extends Developer {
-  name       = "Ky" | "Anx";
+  name       = "Ky";
   age        = "20";
   role       = "Software Engineer";
-  pronouns   = "Any";
-  portfolio  = "https://kyvrixon.dev/";
-  experience = "7 years";
+  pronouns   = "he/him";
+  experience = "~6 years";
   discordUrl = "https://discord.gg/tsukiyo";
 };
 ```
